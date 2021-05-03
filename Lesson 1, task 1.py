@@ -1,0 +1,5 @@
+name = input('What is your name?')
+lastname = input('What is your last name?')
+age = input('How old are you?')
+position = input('What is your position?')
+print('Dear', name, lastname, 'you are', age, 'being', position, 'at your age is quite a success!')
